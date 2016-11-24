@@ -16,5 +16,21 @@ namespace Tarea4_PIV
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void b23_Click(object sender, EventArgs e)
+        {
+            eje2_3 ejercicio23 = new eje2_3();
+            ejercicio23.Show();
+        }
     }
 }
